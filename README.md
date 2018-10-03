@@ -33,3 +33,5 @@ Copyright © 2018 Lukas Müller
 [XAMPP / LAMPP](https://www.apachefriends.org/de/index.html)
 
 [MySQL](https://www.mysql.com)
+
+[Spectre.css](https://picturepan2.github.io/spectre/)
