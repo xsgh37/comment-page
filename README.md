@@ -1,4 +1,4 @@
-<img width="50%" height="50%" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/chat-circle-blue-512.png"/>
+<img width="25%" height="25%" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/chat-circle-blue-512.png"/>
 
 # comment-page
 This is just a simple page where people can comment and read other's comments.
