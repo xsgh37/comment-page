@@ -1,0 +1,19 @@
+
+@keyframes color_change {
+	0% {
+		color: rgb(122, 122, 255);
+	}
+	50% {
+		color: rgb(255, 122, 122);
+	}
+	100% {
+		color: rgb(122, 255, 122);
+	}
+}
+
+.color-changing {
+	animation: color_change 10s infinite alternate;
+}
+.container {
+	margin: 40px;
+}
