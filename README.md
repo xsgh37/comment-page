@@ -23,4 +23,13 @@ Insert following code in your MySQL Workbench or PHPmyAdmin:
 
 ### License
 
-This project has an MIT License.
+This project is MIT licensed.
+
+Copyright © 2018 Lukas Müller
+
+
+### References
+
+[XAMPP / LAMPP](https://www.apachefriends.org/de/index.html)
+
+[MySQL](https://www.mysql.com)
