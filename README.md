@@ -1,4 +1,4 @@
-# comment-page
+# comment-page ![](https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/chat-circle-blue-512.png)
 This is just a simple page where people can comment and read other's comments.
 
 
