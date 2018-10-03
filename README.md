@@ -19,3 +19,8 @@ Insert following code in your MySQL Workbench or PHPmyAdmin:
   comment VARCHAR(240)
   
 );
+
+
+### License
+
+This project has an MIT License.
